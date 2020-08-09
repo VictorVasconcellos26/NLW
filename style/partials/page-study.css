@@ -199,5 +199,8 @@
 
     transition: background 0.2s;
     margin-left: 1.6rem;
+}
 
+.teacher-item footer button:hover {
+    background: var(--color-secondary-dark);
 }
